@@ -1,0 +1,11 @@
+src
+├── Components
+│   ├── AhogeComponent.js
+│   ├── BhogeComponent.js
+│   └── ChogeComponent.js
+├── Elements
+│   ├── AhogeElement.js
+│   └── BhogeElement.js
+└── Screens
+    ├── SettingScreen.js
+    └── WelcomeScreen.js
